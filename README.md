@@ -195,7 +195,7 @@ Node.js v18+ or any modern browser with ES module support is recommended.
 
 ## Git
 ```bash
-git clone https://github.com/Rizal-HID11/mini-jstorch-github
+git clone https://github.com/N1no-cpy13/mini-jstorch-github
 ```
 
 ---
